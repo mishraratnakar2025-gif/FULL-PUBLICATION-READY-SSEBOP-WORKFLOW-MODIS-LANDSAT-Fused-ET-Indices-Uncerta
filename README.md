@@ -1,0 +1,2 @@
+# FULL-PUBLICATION-READY-SSEBOP-WORKFLOW-MODIS-LANDSAT-Fused-ET-Indices-Uncerta
+FULL PUBLICATION-READY SSEBOP WORKFLOW   MODIS + LANDSAT + Fused ET   Indices, Uncertainty, Confidence, Quadrants, Charts
